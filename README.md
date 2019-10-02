@@ -5,4 +5,4 @@
   Click [ME](http://baidu.com) to get into the Baidu Browser
 >:heart::heart:Love you, China! Love you, my country!:yum:
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/lee13838898707/img-fold/blob/master/%E4%B8%8B%E8%BD%BD.gif)
